@@ -38,5 +38,5 @@ out/
 
 
 ### Application Properties ####
-*.properties
+application-local.properties
 
